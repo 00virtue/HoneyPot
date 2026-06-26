@@ -9,10 +9,8 @@ Softbans users who send messages in a specified trap channel defined in .env.
 
 ### 1. Install dependencies
 
-```bash id="inst1"
-npm install discord.js dotenv
+`npm install discord.js dotenv`
 
 ### 2. Start the project
 
-```bash id="start"
-node start index.js
+`node index.js`
