@@ -1,6 +1,7 @@
 # Discord Anti-Spam HoneyPot Bot
 
 A simple Discord anti-spam / honeypot moderation bot built with Node.js.
+
 Softbans users who send messages in a specified trap channel defined in .env.
 
 ---
@@ -9,8 +10,12 @@ Softbans users who send messages in a specified trap channel defined in .env.
 
 ### 1. Install dependencies
 
-`npm install discord.js dotenv`
+```bash
+npm install discord.js dotenv
+```
 
 ### 2. Start the project
 
-`node index.js`
+```bash
+node index.js
+```
